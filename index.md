@@ -1,4 +1,3 @@
-# Ulrich Tan  
 **Independent Researcher — Rouen, France**  
 **Email :** ulrich.tan@polytechnique.org  
 **GitHub:** https://github.com/jietra
