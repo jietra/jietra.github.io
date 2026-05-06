@@ -54,11 +54,11 @@ Shows that a Wasserstein‑based structural update rule (HWG) produces **spontan
 
 ### **Dendritic Segment Model**  
 A computational model of nonlinear dendritic integration and synaptic subunits.  
-👉 https://github.com/jietra/dendritic_segment_model
+👉 [dendritic_segment_model](https://github.com/jietra/dendritic_segment_model)
 
-### SPEANN  
+### **SPEANN**  
 A lightweight experimental framework exploring synaptic plasticity and continuous learning mechanisms.  
-👉 https://github.com/jietra/speann
+👉 [speann](https://github.com/jietra/speann)
 
 ---
 
