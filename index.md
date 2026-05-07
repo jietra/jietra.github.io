@@ -2,7 +2,22 @@
 
 **Independent Researcher — Rouen, France**  
 **Email :** ulrich.tan@polytechnique.org  
-**GitHub:** [https://github.com/jietra](https://github.com/jietra)
+**GitHub:** [https://github.com/jietra](https://github.com/jietra)  
+
+<p>
+  <a href="https://github.com/jietra/portfolio" style="
+    display:inline-block;
+    padding:6px 12px;
+    border:1px solid #ccc;
+    border-radius:6px;
+    text-decoration:none;
+    color:#0366d6;
+    font-size:14px;
+  ">
+    View Portfolio
+  </a>
+</p>
+
 
 ---
 
