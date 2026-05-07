@@ -39,7 +39,14 @@ I am particularly interested in how **local, biologically plausible rules** can 
 arXiv:2604.16052  
 A geometric formulation of Hebbian plasticity based on **W₂ geodesics**, showing that classical Hebbian updates can be interpreted as **contractive flows** in Wasserstein space.
 
-👉 [PDF on arXiv](https://arxiv.org/abs/2604.16052)
+👉 [PDF on arXiv](https://arxiv.org/abs/2604.16052)  
+
+X announcement :
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">I’ve just released a new preprint proposing a geometric framework for memory and learning dynamics using Optimal Transport.</p>
+  — Ulrich Tan (@Ulrichxtan) 
+  <a href="https://twitter.com/Ulrichxtan/status/2047657942141251814?ref_src=twsrc%5Etfw">April 24, 2026</a>
+</blockquote>
 
 ---
 
@@ -66,3 +73,5 @@ A lightweight experimental framework exploring synaptic plasticity and continuou
 
 ## Contact  
 If you are interested in continuous learning, synaptic dynamics, or geometric learning rules, feel free to reach out.
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
