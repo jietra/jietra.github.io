@@ -4,21 +4,6 @@
 **Email :** ulrich.tan@polytechnique.org  
 **GitHub:** [https://github.com/jietra](https://github.com/jietra)  
 
-<p>
-  <a href="https://github.com/jietra/portfolio" style="
-    display:inline-block;
-    padding:6px 12px;
-    border:1px solid #ccc;
-    border-radius:6px;
-    text-decoration:none;
-    color:#0366d6;
-    font-size:14px;
-  ">
-    View Portfolio
-  </a>
-</p>
-
-
 ---
 
 ## About me  
@@ -86,7 +71,13 @@ A lightweight experimental framework exploring synaptic plasticity and continuou
 
 ---
 
-## Contact  
+### Other Work
+I also maintain a portfolio of engineering projects (AI systems, distributed identity, data engineering, OS development):  
+👉 [portfolio](https://github.com/jietra/portfolio)
+
+---
+
+### Contact  
 If you are interested in continuous learning, synaptic dynamics, or geometric learning rules, feel free to reach out.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
