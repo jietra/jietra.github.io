@@ -1,33 +1,42 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-**Independent Researcher — Rouen, France**  
+**Independent Researcher — France**  
 **Email :** ulrich.tan@polytechnique.org  
 **GitHub:** [https://github.com/jietra](https://github.com/jietra)  
 
 ---
 
 ## About me  
-I work on **continuous learning inspired by synaptic plasticity**, with a focus on geometric and biologically grounded learning rules. 
-My research explores how biological principles — such as dendritic integration, local learning rules, and structural plasticity — can be translated into **geometric and dynamical frameworks** for machine learning.
+I work on **continuous learning**, **synaptic plasticity**, and **geometric learning rules**, with the goal of understanding how biological principles can inspire more adaptive, efficient, and robust AI systems.
 
-This line of work has led me to study:
+My research focuses on how **local, biologically plausible learning rules**—such as dendritic integration, nonlinear synaptic subunits, and structural plasticity—can be translated into **geometric and dynamical frameworks** for machine learning. I am particularly interested in how these mechanisms can support **lifelong learning, sparsity, stability**, and **energy‑efficient computation**.
+
+This line of work has led me to explore:
 
 - **dendritic segment integration** and nonlinear synaptic subunits,  
 - **Wasserstein geometry** as a foundation for Hebbian learning,  
 - **geometry‑driven structural plasticity** and emergent pruning,  
-- **learning dynamics** under noise and spontaneous activity.
+- **learning dynamics** under noise and spontaneous activity,  
+- **resource‑efficient** and **edge‑deployable** learning mechanisms.
 
-I am particularly interested in how **local, biologically plausible rules** can give rise to global organization, sparsity, and stability in continuous learning systems.
+Beyond theoretical work, I also build **AI systems and engineering prototypes**, including:
+- lightweight continuous‑learning frameworks  
+- dendritic computation models  
+- edge‑AI experiments  
+- distributed identity and cryptographic systems (DLT, ZKP, MPC, PQC)  
+- GPU‑accelerated pipelines and LLM‑based architectures
+
+My broader interest is in how **adaptive**, **decentralized**, and **resource‑efficient learning** can shape the next generation of AI systems—especially in contexts where compute, energy, or privacy constraints matter.
 
 ---
 
 ## Research Interests  
-- Continuous Learning  
-- Synaptic Plasticity  
-- Dendritic Computation  
-- Learning Dynamics  
+- Continuous Learning & Lifelong Adaptation  
+- Synaptic Plasticity & Dendritic Computation  
+- Learning Dynamics & Geometric Methods  
 - Optimal Transport & Wasserstein Geometry  
-- Neuro‑Inspired Machine Learning  
+- Neuro‑Inspired Machine Learning
+- Edge AI & Resource‑Efficient Learning  
 - Emergent Structure & Sparsity  
 
 ---
@@ -77,7 +86,24 @@ I also maintain a portfolio of engineering projects (AI systems, distributed ide
 
 ---
 
+## AI Systems & Engineering Work
+In parallel to theoretical research, I design and build production‑grade AI systems, including:
+- sovereign LLM platforms (secure cloud, GPU clusters, LLMOps)  
+- RAG and agentic AI architectures
+- evaluation and monitoring pipelines
+- privacy‑preserving systems (DLT, ZKP, MPC, PQC)
+- distributed data platforms and analytics engines
+- edge‑AI prototypes and resource‑efficient models
+
+This dual perspective—**biological inspiration + large‑scale AI engineering**—shapes my approach to innovation and emerging technology.
+
+---
+
 ### Contact  
-If you are interested in continuous learning, synaptic dynamics, or geometric learning rules, feel free to reach out.
+For collaboration, research discussions, or AI systems work, you can reach me at:
+
+Email: ulrich.tan@polytechnique.org  
+LinkedIn: [https://www.linkedin.com/in/ulrich-t-1b83064](https://www.linkedin.com/in/ulrich-t-1b83064)  
+GitHub: [https://github.com/jietra](https://github.com/jietra)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
