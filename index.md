@@ -1,8 +1,8 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
 **Independent Researcher — France**  
-**Email :** ulrich.tan@polytechnique.org  
-**GitHub:** [https://github.com/jietra](https://github.com/jietra)  
+**Email:** ulrich.tan@polytechnique.org  
+**ORCID:** [https://orcid.org/0009-0001-2907-501X](https://orcid.org/0009-0001-2907-501X)
 
 ---
 
@@ -105,6 +105,5 @@ For collaboration, research discussions, or AI systems work, you can reach me at
 Email: ulrich.tan@polytechnique.org  
 LinkedIn: [https://www.linkedin.com/in/ulrich-t-1b83064](https://www.linkedin.com/in/ulrich-t-1b83064)  
 GitHub: [https://github.com/jietra](https://github.com/jietra)  
-ORCID: [https://orcid.org/0009-0001-2907-501X](https://orcid.org/0009-0001-2907-501X)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
